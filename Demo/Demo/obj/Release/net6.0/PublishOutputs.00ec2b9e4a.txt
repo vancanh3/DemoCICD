@@ -1,0 +1,7 @@
+D:\Study\CSharp\DemoCICD\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.exe
+D:\Study\CSharp\DemoCICD\Demo\Demo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Study\CSharp\DemoCICD\Demo\Demo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Study\CSharp\DemoCICD\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.dll
+D:\Study\CSharp\DemoCICD\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.deps.json
+D:\Study\CSharp\DemoCICD\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.runtimeconfig.json
+D:\Study\CSharp\DemoCICD\Demo\Demo\obj\Release\net6.0\PubTmp\Out\Demo.pdb
